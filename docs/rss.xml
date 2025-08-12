@@ -1,5 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>汤圆沁-Xiaoyuan7021的博客</title><link>https://Xiaoyuan7021.github.io</link><description>我是Xiaoyuan7021，一名MC区的小UP主</description><copyright>汤圆沁-Xiaoyuan7021的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://pic2.zhimg.com/v2-8a372f4f12ab6fbe8eeb6482fbe998fc_r.jpg?source=1940ef5c</url><title>avatar</title><link>https://Xiaoyuan7021.github.io</link></image><lastBuildDate>Tue, 12 Aug 2025 09:02:50 +0000</lastBuildDate><managingEditor>汤圆沁-Xiaoyuan7021的博客</managingEditor><ttl>60</ttl><webMaster>汤圆沁-Xiaoyuan7021的博客</webMaster><item><title>[Zoho]Zoho域名邮箱白嫖附件网址</title><link>https://Xiaoyuan7021.github.io/post/%5BZoho%5DZoho-yu-ming-you-xiang-bai-piao-fu-jian-wang-zhi.html</link><description>Zoho免费邮箱
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>汤圆沁-Xiaoyuan7021的博客</title><link>https://Xiaoyuan7021.github.io</link><description>我是Xiaoyuan7021，一名MC区的小UP主</description><copyright>汤圆沁-Xiaoyuan7021的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://pic2.zhimg.com/v2-8a372f4f12ab6fbe8eeb6482fbe998fc_r.jpg?source=1940ef5c</url><title>avatar</title><link>https://Xiaoyuan7021.github.io</link></image><lastBuildDate>Tue, 12 Aug 2025 09:33:18 +0000</lastBuildDate><managingEditor>汤圆沁-Xiaoyuan7021的博客</managingEditor><ttl>60</ttl><webMaster>汤圆沁-Xiaoyuan7021的博客</webMaster><item><title>[MC]MC服务器开服教程附件网址</title><link>https://Xiaoyuan7021.github.io/post/%5BMC%5DMC-fu-wu-qi-kai-fu-jiao-cheng-fu-jian-wang-zhi.html</link><description>原版服务端下载:https://mcversions.net/
+Paper服务端下载:https://papermc.io/downloads
+Spigot服务端下载:https://getbukkit.org/download/spigot
+Forge服务端下载: https://files.minecraftforge.net/net/minecraftforge/forge
+Fabric服务端下载:fabricmc.net/use/server/
+Paper插件下载:https://hangar.papermc.io/
+Spigot插件下载:https://www.spigotmc.org/resources/categories/spigot.4/
+模组下载网站:https://www.mcmod.cn/
+Chmlfrp内网穿透:https://panel.chmlfrp.cn/tunnelm/manage
+Mefrp内网穿透:https://www.mefrp.com/dashboard/create-proxy
+Java21下载:https://www.oracle.com/cn/java/technologies/downloads/#jdk21-windows
+WIKI解释：https://minecraft.fandom.com/zh/wiki/Server.properties?so=search
+启动服务器命令:
+@echo off
+java -Xms1G -Xmx4G -jar 名字.jar nogui
+pause。</description><guid isPermaLink="true">https://Xiaoyuan7021.github.io/post/%5BMC%5DMC-fu-wu-qi-kai-fu-jiao-cheng-fu-jian-wang-zhi.html</guid><pubDate>Tue, 12 Aug 2025 09:32:48 +0000</pubDate></item><item><title>[Zoho]Zoho域名邮箱白嫖附件网址</title><link>https://Xiaoyuan7021.github.io/post/%5BZoho%5DZoho-yu-ming-you-xiang-bai-piao-fu-jian-wang-zhi.html</link><description>Zoho免费邮箱
 注册账号:https://www.zoho.com/signup.html
 登录账号:https://accounts.zoho.com/signin?servicename=VirtualOffice&amp;signupurl=https://www.zoho.com/mail/zohomail-pricing.html&amp;serviceurl=https://mail.zoho.com
 管理员邮箱:https://mailadmin.zoho.com/cpanel/home.do#dashboard
