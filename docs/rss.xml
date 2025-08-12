@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>汤圆沁-Xiaoyuan7021的博客</title><link>https://Xiaoyuan7021.github.io</link><description>我是Xiaoyuan7021，一名MC区的小UP主</description><copyright>汤圆沁-Xiaoyuan7021的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://pic2.zhimg.com/v2-8a372f4f12ab6fbe8eeb6482fbe998fc_r.jpg?source=1940ef5c</url><title>avatar</title><link>https://Xiaoyuan7021.github.io</link></image><lastBuildDate>Tue, 12 Aug 2025 06:13:49 +0000</lastBuildDate><managingEditor>汤圆沁-Xiaoyuan7021的博客</managingEditor><ttl>60</ttl><webMaster>汤圆沁-Xiaoyuan7021的博客</webMaster><item><title>[MC]Alien v4 Crk破解使用教程</title><link>https://Xiaoyuan7021.github.io/post/%5BMC%5DAlien%20v4%20Crk-po-jie-shi-yong-jiao-cheng.html</link><description>知周所众，就在几个月前，K09破解了我们的Alien v4，所以我来出一期Alien #v4如何使用的教程
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>汤圆沁-Xiaoyuan7021的博客</title><link>https://Xiaoyuan7021.github.io</link><description>我是Xiaoyuan7021，一名MC区的小UP主</description><copyright>汤圆沁-Xiaoyuan7021的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://pic2.zhimg.com/v2-8a372f4f12ab6fbe8eeb6482fbe998fc_r.jpg?source=1940ef5c</url><title>avatar</title><link>https://Xiaoyuan7021.github.io</link></image><lastBuildDate>Tue, 12 Aug 2025 08:40:13 +0000</lastBuildDate><managingEditor>汤圆沁-Xiaoyuan7021的博客</managingEditor><ttl>60</ttl><webMaster>汤圆沁-Xiaoyuan7021的博客</webMaster><item><title>[MC]MC外挂客户端下载网址(全都是免费破解的)</title><link>https://Xiaoyuan7021.github.io/post/%5BMC%5DMC-wai-gua-ke-hu-duan-xia-zai-wang-zhi-%28-quan-du-shi-mian-fei-po-jie-de-%29.html</link><description>Wurst：https://www.wurstclient.net/
+Inertia：https://inertiaclient.com/
+LiquidBounce：https://liquidbounce.net/
+Impact：https://impactclient.net/
+Meteor：https://meteorclient.com/
+Aristois：https://aristois.net/
+Wolfram：https://www.wolframclient.net/
+Vape: https://wwa.lanzoui.com/iBTIVrtakkb
+世界末日幽灵客户端:doomsdayclient.com
+Epi11: https://wwhq.lanzouj.com/i9z4M1itj3ne/
+妙妙屋: https://wwhq.lanzouj.com/igNM31itj9qd/
+水星客户端: https://wwhq.lanzouj.com/iRIsL1itjezc/
+。</description><guid isPermaLink="true">https://Xiaoyuan7021.github.io/post/%5BMC%5DMC-wai-gua-ke-hu-duan-xia-zai-wang-zhi-%28-quan-du-shi-mian-fei-po-jie-de-%29.html</guid><pubDate>Tue, 12 Aug 2025 08:39:41 +0000</pubDate></item><item><title>[MC]Alien v4 Crk破解使用教程</title><link>https://Xiaoyuan7021.github.io/post/%5BMC%5DAlien%20v4%20Crk-po-jie-shi-yong-jiao-cheng.html</link><description>知周所众，就在几个月前，K09破解了我们的Alien v4，所以我来出一期Alien #v4如何使用的教程
 首先我们加群714562307，在群文件中搜索并下载ALIEN V4.zip，然后找一个文件夹，解压进去
 接下来打开你的启动器(例如:PCL2，HMCL)，下载一个Fabric1.21.1的版本，然后在启动参数下面加上-javaagent:'AlienFuckerV2(2).jar的路径'
 接下来你需要确保Mods文件夹中有Fabric api和1_alien-4.0-alpha-release.jar，接下来启动游戏
